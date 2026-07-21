@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0167_000.yaml, hash: 'sha256:afcd8049a84b8c5f2574f59439c209f0b731343ab09076da17b13265df06bd9c'}
+  - {seq: 0, filename: KR6c0167_000.yaml, hash: 'sha256:641e12f0f291658af56eb48086f048279a837f7542303162539f19c155831a41'}
   - {seq: 1, filename: KR6c0167_001.yaml, hash: 'sha256:7758e30a83971137dcb72ea92982abf401ce8890020238a08b037ff4f5775b79'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0167_000.markers.yaml, hash: 'sha256:e0f81db3102ea2ab1b3c0b231c1cea8ebeccc755e84ffb9c7f2871b080b768a1'}
+  - {seq: 0, role: markers, filename: assets/KR6c0167_000.markers.yaml, hash: 'sha256:153f58ebcd1cc64ab50001800da6b3800ddc136f7e8e1bcce807670064ec5e46'}
   - {seq: 1, role: markers, filename: assets/KR6c0167_001.markers.yaml, hash: 'sha256:8c45851d47939700044d20581a275ab684fd8778aea12945b9dc70c766465f4b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0167_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 548-A 心經斵輪解序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0167_X_000-mulu-2
     span:
-    - front
+    - body
     - 369
     - 369
   label: 般若波羅蜜多心經斲輪解
@@ -57,7 +57,7 @@ table_of_contents:
   label: 般若波羅蜜多心經斵輪解
   type: juan
   level: 1
-hash: sha256:868cc183bcc8576c9463dbee9e5838e57d6e713ed40bee5e6618f34431d80861
+hash: sha256:2f5032cd4429fd7750d4afafbe143faa1cbafc7909c8c5b41cc33b8c4d6e63ec
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

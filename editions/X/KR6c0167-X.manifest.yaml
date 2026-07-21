@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0167_000-X.yaml, hash: 'sha256:90367d412b5044f265e0eca2eb6270c88394c4adbd54fc02322a4a085b6e005f'}
+  - {seq: 0, filename: KR6c0167_000-X.yaml, hash: 'sha256:b3dc243cb77c94828d63392cfc383d87bbd3d5ab06c5ba8f723dd702ae1b6a38'}
   - {seq: 1, filename: KR6c0167_001-X.yaml, hash: 'sha256:43442bea71c20779702b3eb021eccdb1147096e776471372bc617ed5f8b95bec'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0167_000-X.markers.yaml, hash: 'sha256:612eab917e195d7877bb48793fd90262203c844961b13895367abdbbea304a42'}
+  - {seq: 0, role: markers, filename: assets/KR6c0167_000-X.markers.yaml, hash: 'sha256:36ec784d8c583aacdb1b8ad01d25a61849471f9d127444ebd26e6446f6a2f924'}
   - {seq: 1, role: markers, filename: assets/KR6c0167_001-X.markers.yaml, hash: 'sha256:79726d5fc58f2fdd2449a51a53aae65078649d3d9dc6e72432e6a746f74f508d'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0167_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 548-A 心經斵輪解序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0167_X_000-mulu-2
     span:
-    - front
+    - body
     - 369
     - 369
   label: 般若波羅蜜多心經斲輪解
@@ -55,4 +55,4 @@ table_of_contents:
   label: 般若波羅蜜多心經斵輪解
   type: juan
   level: 1
-hash: sha256:e3219ce386160ca73d0b56493f21f2d21d8a4576f5cd0aea0f091ea716b40c36
+hash: sha256:7cb51676727f3ce2d78062b39b9ab67db0b7b642eb67350409714e00e1b17bfb
